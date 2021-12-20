@@ -238,7 +238,7 @@ p {
     float: right;
     background-image: url(../IMG/bg-about.jpg);
     border-left: 200px solid #fff;
-    border1-top: 700px solid transparent;
+    border-top: 700px solid transparent;
 }
 
 
